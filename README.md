@@ -9,4 +9,18 @@ Na construção desse app, foi utilizado o framework <strong>NextJS</strong> com
 
 <h2>Imagens do Projeto</h2>
 
+<h3>Home</h3>
+
 ![Home](https://user-images.githubusercontent.com/68357487/110020704-a36d6d00-7d08-11eb-8a40-c18cf653223f.png)
+
+<h3>Countdown iniciado</h3>
+
+![countdown iniciado](https://user-images.githubusercontent.com/68357487/110020929-e596ae80-7d08-11eb-89ff-debd1dacf454.png)
+
+<h3>Ao finalizar o countdown, uma notificação é recebida</h3>
+
+![notificação de novo desafio](https://user-images.githubusercontent.com/68357487/110021080-11b22f80-7d09-11eb-9119-52661623c812.png)
+
+<h3>Ao completar a barra de XP, o usuário sobe de nível
+  
+![levelup](https://user-images.githubusercontent.com/68357487/110021180-2d1d3a80-7d09-11eb-824b-171ed86bc0ae.png)
