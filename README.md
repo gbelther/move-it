@@ -3,3 +3,6 @@ Sabe quando você fica horas na frente do computador e depois de um tempo perceb
 
 <h2>Como executar o projeto em sua máquina</h2>
 Para executar o projeto basta clonar o repositório em sua máquina, executar o comando <strong>YARN</strong> para instalar as dependências e, por fim, <strong>YARN DEV</strong> para iniciar.
+
+<h2>Tecnologias utilizadas no projeto</h2>
+Na construção desse app, foi utilizado o framework <strong>NextJS</strong> com os códigos escritos em <strong>TypeScript</strong> termos tipagem.
