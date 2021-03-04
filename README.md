@@ -8,4 +8,5 @@ Para executar o projeto basta clonar o repositório em sua máquina, executar o 
 Na construção desse app, foi utilizado o framework <strong>NextJS</strong> com os códigos escritos em <strong>TypeScript</strong> termos tipagem.
 
 <h2>Imagens do Projeto</h2>
-![Home](https://user-images.githubusercontent.com/68357487/110020027-d8c58b00-7d07-11eb-929c-f7551fe67185.png)
+
+![Home](https://user-images.githubusercontent.com/68357487/110020704-a36d6d00-7d08-11eb-8a40-c18cf653223f.png)
